@@ -62,7 +62,7 @@
     justify-content: space-around;
     padding: 80px;
     color: white;
-    background-image: url("/images/background.png") , linear-gradient(45deg , #333333 , #2a2727);
+    background-image: url("images/background.png") , linear-gradient(45deg , #333333 , #2a2727);
 }
 
 /* second section start */
@@ -98,7 +98,7 @@
 }
 /* last main section */
 .last-main{
-    background-image: url("/images/background.png") , linear-gradient(45deg , #333333 , #2a2727);
+    background-image: url("images/background.png") , linear-gradient(45deg , #333333 , #2a2727);
     width: 100%;
     height: 500px;
     color: white;
