@@ -49,6 +49,7 @@
     border: none;
     color: white;
     border-radius: 5px;
+    /* margin-top: 30px; */
 }
 .banner-image{
     width: 300px;
@@ -62,4 +63,36 @@
     padding: 80px;
     color: white;
     background-image: url("/images/background.png") , linear-gradient(45deg , #333333 , #2a2727);
+}
+
+/* second section start */
+.second-main-header{
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 30px ;
+}
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    /* align-items: center; */
+    flex-direction: row-reverse;
+    /* padding: 40px; */
+}
+.about-photo{
+    width: 350px;
+    height: 350px;
+}
+.second-header{
+    font-size: 30px;
+    margin-bottom: 20px;
+    font-weight: 800;
+}
+.second-section{
+    padding: 50px;
+}
+.second-paragraph{
+    font-size: 20px;
+}
+.second-button{
+    margin-top: 30px;
 }
