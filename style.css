@@ -145,3 +145,46 @@
 .last-main{
     padding: 30px 0px;
 }
+/* footer section related styles */
+.last-foot{
+    background-color: #050505;
+    color: white;
+}
+.last-foot-div{
+    display: flex;
+    justify-content: space-evenly;
+    /* gap: 50px; */
+    padding: 50px;
+
+}
+.last-image{
+    /* width: 180px; */
+    height: 35px;
+    margin-bottom: 16px;
+}
+.last-para{
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+.footer-section{
+    /* border: 2px solid green; */
+    /* width: 250px; */
+    height: 200px;
+    padding: 20px;
+}
+.last-paragraph{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+hr{
+    background-color: white;
+    /* color: white; */
+    /* margin: 20px; */
+    width: 80%;
+    margin: 0px auto;
+}
+.last-para-copy{
+    font-size: 16px;
+    text-align: center;
+    padding: 20px 0px;
+}
