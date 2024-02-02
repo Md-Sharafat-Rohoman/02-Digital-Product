@@ -96,3 +96,52 @@
 .second-button{
     margin-top: 30px;
 }
+/* last main section */
+.last-main{
+    background-image: url("/images/background.png") , linear-gradient(45deg , #333333 , #2a2727);
+    width: 100%;
+    height: 500px;
+    color: white;
+}
+.last-main-section-header{
+    font-size: 70px;
+    text-align: center;
+    font-weight: 800px;
+    margin-bottom: 20px;
+}
+.image-icon{
+    width: 80px;
+    height: 80px;
+}
+.last-header{
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 15px;
+
+}
+.first-div{
+    /* border: 2px solid green; */
+    width: 230px;
+    height: 280px;
+    padding: 20px;
+    text-align: center;
+    background-color: #141414;
+    border-radius: 10px;
+
+}
+.last-button{
+    font-size: 16px;
+    background-color:#4b4545;
+    color: white;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.four-div-section{
+    display: flex;
+    justify-content: space-around;
+}
+.last-main{
+    padding: 30px 0px;
+}
